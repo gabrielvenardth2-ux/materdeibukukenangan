@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kenangan SMAK Mater Dei Probolinggo",
+  "description": "Buku Kenangan Digital & Papan Pesan Kelulusan Angkatan 2026 SMAK Mater Dei Probolinggo. Ruang interaktif teman sekelas dengan profil 3D flip, tanda tangan digital, voting superlatif, dan kapsul waktu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
